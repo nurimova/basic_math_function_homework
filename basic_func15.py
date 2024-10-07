@@ -1,11 +1,11 @@
 def main(a, b):
-    '''Find the remainder when a is divided by b and return it.
+    '''A soni b ga bo'linganda qoldiqni toping va uning 3 darajasini hisoblab qaytaring.
     
-    Args:
-        a (int): a number
-        b (int): a number
-        
-    Returns:
-        int: the result.
-    '''
+     Args:
+     a (int): raqam
+     b (int): raqam
+    
+     Qaytaradi:
+     int: natija.
+     '''
     return
