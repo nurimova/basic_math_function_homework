@@ -1,10 +1,10 @@
 def main():
-    '''return the value of pi
+   '''pi qiymatini qaytaring
     
-    Args:
-        a (float): a number
-        
-    Returns:
-        float: the value of pi.
-    '''
+     Args:
+     a (suzuvchi): raqam
+    
+     Qaytaradi:
+     float: pi qiymati.
+     '''
     return
