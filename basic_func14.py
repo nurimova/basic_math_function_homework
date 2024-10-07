@@ -1,11 +1,11 @@
 def main(a, b):
-    '''find the floor division of a and b and return it.
+    '''a va b  bo'linmasinining yaxlitlangan qiymatini toping va uni qaytaring.
     
-    Args:
-        a (int): a number
-        b (int): a number
-        
-    Returns:
-        int: the result.
-    '''
+     Args:
+     a (int): raqam
+     b (int): raqam
+    
+     Qaytaradi:
+     int: natija.
+     '''
     return 
