@@ -1,10 +1,10 @@
 def main(a):
-    '''find the square root of a number and return it.
+    '''sonning kvadrat ildizini toping va uni qaytaring.
     
-    Args:
-        a (int): a number
-        
-    Returns:
-        float: the absolute value.
-    '''
+     Args:
+     a (int): raqam
+    
+     Qaytaradi:
+     float: natija qiymat.
+     '''
     return
