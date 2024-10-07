@@ -1,10 +1,10 @@
 def main(a):
-    '''find the absolute value of a and return it
+    '''a ning absolute qiymatini toping va uni qaytaring
     
-    Args:
-        a (int): a number
-        
-    Returns:
-        int: the absolute value.
+     Args:
+     a (int): raqam
+    
+     Qaytaradi:
+     int: absolute qiymat.
     '''
     return
