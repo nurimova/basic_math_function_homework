@@ -60,7 +60,7 @@ Output: 5
 
 ```Python
 Input: a = 23 b = 5
-Output: 3
+Output: 27
 ```
 
 ## basic_func16
@@ -70,8 +70,8 @@ Output: 3
 **Example 1:**
 
 ```Python
-Input: a = 3 b = 2
-Output: 5
+Input: a = 3.1465 b = 2
+Output: 3.15
 ```
 
 ## basic_func17
@@ -92,8 +92,8 @@ Output: 3.141592653589793
 **Example 1:**
 
 ```Python
-Input: a = pi
-Output: 3.14
+Input: a = e
+Output: 2.71
 ```
 
 ## basic_func19
@@ -114,8 +114,8 @@ Output: 7
 **Example 1:**
 
 ```Python
-Input: a = 5 b = 4
-Output: 20
+Input: a = 10 b = 1000
+Output: 3
 ```
 
 # Warning
