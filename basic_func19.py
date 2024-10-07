@@ -1,11 +1,11 @@
 def main(a, b):
-    '''find the absolute value of the difference between a and b. Return it.
+   '''a va b o'rtasidagi farqning absolut qiymatini toping. Qaytaring.
     
-    Args:
-        a (int): a number
-        b (int): a number
-        
-    Returns:
-        int: the result.
-    '''
+     Args:
+     a (int): raqam
+     b (int): raqam
+    
+     Qaytaradi:
+     int: natija.
+     '''
     return
