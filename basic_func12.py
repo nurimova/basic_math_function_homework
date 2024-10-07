@@ -1,10 +1,10 @@
 def main(a):
-    '''Round the value of a to 2 decimal places and return it.
+    '''A qiymatini 2 kasrgacha yaxlitlang va uni qaytaring.
     
-    Args:
-        a (float): a number
-        
-    Returns:
-        float: the result
-    '''
+     Args:
+     a (suzuvchi): raqam
+    
+     Qaytaradi:
+     float: natija
+     '''
     return
