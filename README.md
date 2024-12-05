@@ -1,123 +1,124 @@
-# Welcome
-# Basic Math Function
+# Xush kelibsiz
+# Asosiy Matematik Funktsiyalar
 
-Automated grading of homework assignments and tests
-- fork this repository
-- solve the task
-- commit with proper message
-- commit with proper message
+Uy vazifalari va testlarni avtomatik baholash
+- ushbu repozitoriyani forklang
+- vazifani hal qiling
+- to'g'ri xabar bilan commit qiling
+- to'g'ri xabar bilan commit qiling
 
-# Problems
+# Muammolar
 ## basic_func11
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = -8
-Output: 8
+Kirish: a = -8
+Chiqarish: 8
 ```
 
 ## basic_func12
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = 6.453
-Output: 6.45
+Kirish: a = 6.453
+Chiqarish: 6.45
 ```
 
 ## basic_func13
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = 9
-Output: 3.0
+Kirish: a = 9
+Chiqarish: 3.0
 ```
 
 ## basic_func14
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = 11 b = 2
-Output: 5
+Kirish: a = 11 b = 2
+Chiqarish: 5
 ```
 
 ## basic_func15
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = 23 b = 5
-Output: 27
+Kirish: a = 23 b = 5
+Chiqarish: 27
 ```
 
 ## basic_func16
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = 3.1465 b = 2
-Output: 3.15
+Kirish: a = 3.1465 b = 2
+Chiqarish: 3.15
 ```
 
 ## basic_func17
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = pi
-Output: 3.141592653589793
+Kirish: a = pi
+Chiqarish: 3.141592653589793
 ```
 
 ## basic_func18
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = e
-Output: 2.71
+Kirish: a = e
+Chiqarish: 2.71
 ```
 
 ## basic_func19
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = 4 b = 11
-Output: 7
+Kirish: a = 4 b = 11
+Chiqarish: 7
 ```
 
 ## basic_func20
 
-  Create a function called main.
+  `main` nomli funktsiyani yarating.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: a = 10 b = 1000
-Output: 3
+Kirish: a = 10 b = 1000
+Chiqarish: 3
 ```
 
-# Warning
-- don't copy other solutions or any solution
-- don't remove comments
+# Ogohlantirish
+- boshqa yechimlarni yoki har qanday yechimni nusxalamang
+- izohlarni o'chirmang
+```
