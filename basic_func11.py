@@ -1,10 +1,10 @@
 def main(a):
     '''a ning absolute qiymatini toping va uni qaytaring
     
-     Args:
+     Argümentlar:
      a (int): raqam
     
-     Qaytaradi:
-     int: absolute qiymat.
+     Qaytish:
+     int: mutlaq qiymat.
     '''
     return
