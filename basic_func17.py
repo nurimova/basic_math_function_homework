@@ -1,4 +1,4 @@
-def main():
+def main(a):
    '''pi qiymatini qaytaring
     
      Args:
@@ -7,4 +7,6 @@ def main():
      Qaytaradi:
      float: pi qiymati.
      '''
-    return
+   return a
+from math import pi
+print(pi)

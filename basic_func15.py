@@ -9,3 +9,7 @@ def main(a, b):
      int: natija.
      '''
     return
+a=23
+b=5
+s=pow(a%b,3)
+print(s)

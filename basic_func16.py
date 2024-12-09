@@ -9,3 +9,7 @@ def main(a, b):
      int: natija.
      '''
     return
+a=12.3456
+b=3
+s=round(a,b)
+print(s)

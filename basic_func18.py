@@ -4,4 +4,8 @@ def main(a):
     Args: a (float): raqam 
     Qaytadi: float: natija. 
     '''
-    return
+    return a
+from math import e
+a=round(e,2)
+print(a)
+

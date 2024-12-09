@@ -7,4 +7,9 @@ def main(a):
      Qaytaradi:
      float: natija qiymat.
      '''
-    return
+    return a
+from math import sqrt
+a=36
+s=sqrt(a)
+print(s)
+

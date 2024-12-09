@@ -8,4 +8,8 @@ def main(a, b):
      Qaytaradi:
      int: natija.
      '''
-    return 
+    return a
+a=17
+b=8
+s=round(a/b)
+print(s)

@@ -8,4 +8,9 @@ def main(a, b):
      Qaytaradi:
      int: natija.
      '''
-    return
+    return a
+from math import log
+a=6
+b=256
+s=log(a,b)
+print(s)

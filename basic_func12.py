@@ -8,3 +8,6 @@ def main(a):
      float: natija
      '''
     return
+a=4.567
+s=round(a,2)
+print(s)

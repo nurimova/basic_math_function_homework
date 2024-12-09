@@ -8,4 +8,8 @@ def main(a, b):
      Qaytaradi:
      int: natija.
      '''
-    return
+   return a
+a=45
+b=23
+s=abs(a-b)
+print(s)
